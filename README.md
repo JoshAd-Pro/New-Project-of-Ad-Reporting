@@ -1,7 +1,5 @@
 # Ad Optimisation with AI
 
-Ad Optimisation with AI
-
 ## Summary
 
 In ad optimisation there are few basic elements which you need to check and decide your optimisation. Like Publishers, Creatives, Daily, AdExchange vs impressions, clicks and CTR.
